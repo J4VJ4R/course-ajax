@@ -1,0 +1,14 @@
+{
+	"Luis":{
+		"name": "Luis",
+		"lastname": "Gomez",
+		"age": 20,
+		"salary": 2000
+	},
+	"Lupe": {
+		"name": "Lupe",
+		"lastname": "Zenny",
+		"age": 22,
+		"salary": 2300
+	}
+}
